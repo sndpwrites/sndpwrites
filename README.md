@@ -6,6 +6,9 @@
 - 🎓 Education: Bachelors in Computer Science Engineering from Kathmandu University
 - 🌱 Currently learning: Data Structures, Web Optimization, AI development
 - 🛠️ Skills: Python, Javascript, Shell
+- 📚 Reading:  
+  - **The Pragmatic Programmer** by David Thomas & Andrew Hunt
+  - **Web Scraping with Python** by Ryan Mitchell
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sndpwrites&show_icons=true&theme=radical)
