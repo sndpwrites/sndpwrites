@@ -9,6 +9,7 @@
 - 📚 Reading:  
   - **The Pragmatic Programmer** by David Thomas & Andrew Hunt
   - **Web Scraping with Python** by Ryan Mitchell
+  - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sndpwrites&show_icons=true&theme=radical)
