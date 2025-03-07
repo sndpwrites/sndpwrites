@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 - 🎓 Education: Bachelors in Computer Science Engineering from Kathmandu University
-- 🌱 Currently learning: Data Structures, Web Optimization, AI development
-- 🛠️ Skills: Python, Javascript, Shell
+- 🌱 Currently learning: Web Platforms, Machine Learning
+- 🛠️ Skills: Python, Shell, Node.js, React
 - 📚 Reading:  
   - **The Pragmatic Programmer** by David Thomas & Andrew Hunt
   - **Web Scraping with Python** by Ryan Mitchell
