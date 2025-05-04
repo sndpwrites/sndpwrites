@@ -2,14 +2,31 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-## 🚀 About Me
-- 🎓 Education: Bachelors in Computer Science Engineering from Kathmandu University
-- 🌱 Currently learning: Web Platforms, Machine Learning
-- 🛠️ Skills: Python, Shell, Node.js, React
-- 📚 Reading:  
-  - **The Pragmatic Programmer** by David Thomas & Andrew Hunt
-  - **Web Scraping with Python** by Ryan Mitchell
-  - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron
+## Technical Expertise
+
+My core competencies include:
+
+* **Web Development:** MERN stack, Python/FastAPI
+* **Databases:** Performant SQL (PL-SQL, MySQL)
+* **Cloud Computing:** Cloud-first applications on GCP, AWS, and Azure
+* **Machine Learning:** Leveraging Python with TensorFlow, scikit-learn, PyTorch, PySpark, transformers, and LLMs/RAG
+* **Testing:** Proficient in test automation using Cypress, Jest, Pytest, and unittest
+
+## Currently Learning
+
+* Saas platforms
+* Machine Learning
+* Data-driven applications
+
+## Reading
+
+* The Pragmatic Programmer by David Thomas & Andrew Hunt
+* Web Scraping with Python by Ryan Mitchell
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
+
+## Communication
+
+* Strong communication skills (CEFR C2 English)
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sndpwrites&show_icons=true&theme=radical)
