@@ -10,7 +10,7 @@ My core competencies include:
 * **Databases:** Performant SQL (PL-SQL, MySQL)
 * **Cloud Computing:** Cloud-first applications on GCP, AWS, and Azure
 * **Machine Learning:** Leveraging Python with TensorFlow, scikit-learn, PyTorch, PySpark, transformers, and LLMs/RAG
-* **Testing:** Proficient in test automation using Cypress, Jest, Pytest, and unittest
+* **Testing:** Jest, Cypress, Pytest, and unittest
 
 ## Currently Learning
 
