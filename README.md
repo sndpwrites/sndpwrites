@@ -14,7 +14,7 @@ My core competencies include:
 
 ## Currently Learning
 
-* Saas platforms
+* SaaS platforms
 * Machine Learning
 * Data-driven applications
 
